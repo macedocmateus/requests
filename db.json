@@ -1,12 +1,16 @@
 {
   "users": [
     {
-      "id": "pab",
-      "name": "Pablo"
+      "id": "cass",
+      "name": "cassandra"
     },
     {
-      "id": "cass",
-      "name": "Cassandra"
+      "id": "teus",
+      "name": "mateus"
+    },
+    {
+      "id": "paulinha",
+      "name": "paula"
     }
   ]
 }
